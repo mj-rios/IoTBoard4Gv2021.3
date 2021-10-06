@@ -1,0 +1,58 @@
+{
+    "packages": [
+        {
+            "name": "IoTBoard4Gv2021.3",
+            "maintainer": "P-Lock",
+            "websiteURL": "https://p-lock.net/",
+            "email": "mrios@p-lock.net",
+            "help": {
+                "online": "https://p-lock.net/"
+            },
+            "platforms": [
+                {
+                    "name": "IoT Board 4G v2021.3",
+                    "architecture": "samd",
+                    "version": "1.0.0",
+                    "category": "IoT",
+                    "url": "https://github.com/mj-rios/IotBoard4G/raw/master/IoTBoard4Gv2021.3.zip",
+                    "archiveFileName": "IoTBoard4Gv2021.3.zip",
+                    "checksum": "SHA-256:5f8b3685a4b9e9605af3684c7802b4455531e158f0d95775f73321ee4290a4d0",
+                    "size": "2436655",
+                    "boards": [
+                        {
+                            "name": "IoT Board 4G v2021.3"
+                        }
+                    ],
+                    "toolsDependencies": [
+						{
+						  "name": "arm-none-eabi-gcc",
+						  "packager": "arduino",
+						  "version": "4.8.3-2014q1"
+						},
+						{
+						  "name": "bossac",
+						  "packager": "arduino",
+						  "version": "1.8.0-48-gb176eee"
+						},
+						{
+						  "name": "openocd",
+						  "packager": "arduino",
+						  "version": "0.9.0-arduino"
+						},
+						{
+						  "name": "CMSIS",
+						  "packager": "arduino",
+						  "version": "4.5.0"
+						},
+						{
+						  "name": "CMSIS-Atmel",
+						  "packager": "arduino",
+						  "version": "1.2.0"
+						}
+                     ]
+				}
+            ],
+            "tools": []
+        }
+    ]
+}
