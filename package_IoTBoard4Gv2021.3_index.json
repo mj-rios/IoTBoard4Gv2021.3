@@ -17,7 +17,7 @@
                     "url": "https://github.com/mj-rios/IotBoard4G/raw/master/IoTBoard4Gv2021.3.zip",
                     "archiveFileName": "IoTBoard4Gv2021.3.zip",
                     "checksum": "SHA-256:5f8b3685a4b9e9605af3684c7802b4455531e158f0d95775f73321ee4290a4d0",
-                    "size": "2436655",
+                    "size": "2441216",
                     "boards": [
                         {
                             "name": "IoT Board 4G v2021.3"
